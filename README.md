@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Front-end Projects
 - 📫 How to reach me: andrzejbuleczka@gmail.com
 
-![Codewars](https://www.codewars.com/users/AndrzejBuleczka/badges/large)
+![Codewars](https://www.codewars.com/users/AndrzejBuleczka/badges/small)
 
 <!---
 AndrzejBuleczka/AndrzejBuleczka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
