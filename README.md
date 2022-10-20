@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AndrzejBuleczka
 - 👀 I’m interested in Philosophy, Theology, Art and Technology.
 - 🌱 I’m currently learning:
- - HTML5/CSS3/JS/React/Git at infoShare Academy (https://infoshareacademy.com/kurs/bootcamp-frontend/)
- - JS/TS/node.js/express.js/MySQL/MongoDB/React/Nest at MegaK V3 (https://www.megak.pl/)
+ - HTML5/CSS3/JS/React/Git at infoShare Academy [Bootcamp](https://infoshareacademy.com/kurs/bootcamp-frontend/)
+ - JS/TS/node.js/express.js/MySQL/MongoDB/React/Nest at [MegaK V3](https://www.megak.pl/)
 - 💞️ I’m looking to collaborate on Front-end Projects
 - 📫 How to reach me: andrzejbuleczka@gmail.com
 - ![Codewars](https://www.codewars.com/users/AndrzejBuleczka/badges/small)
