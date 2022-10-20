@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrzejBuleczka
 - 👀 I’m interested in Philosophy, Theology, Art and Technology.
-- 🌱 I’m currently learning HTML5/CSS3/JS/React/Git
+- 🌱 I’m currently learning HTML5/CSS3/JS/React/Git at infoShare Academy
 - 💞️ I’m looking to collaborate on Front-end Projects
 - 📫 How to reach me: andrzejbuleczka@gmail.com
 - ![Codewars](https://www.codewars.com/users/AndrzejBuleczka/badges/small)
