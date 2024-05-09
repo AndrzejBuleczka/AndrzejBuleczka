@@ -8,6 +8,7 @@
     - Python with [100 days of Python](https://www.udemy.com/share/103J8C3@OFPJXN3E6LlmauCeyHh1wh7sQwDSxFwsZ_O6KWDDC7R51qAL2x2htmHB0q-6OeyPVw==/)
     - AWS Cloud with [AWS Cloud Practitioner](https://www.udemy.com/share/103aFP3@2lkCljnzT1jzDmKfqt62CXE1DmFVXrc00EKZpo5s4RoxtJTeJU-NgmWg5ru08cy9mg==/)
     - [Algorithms and Data Structures in JS](https://www.udemy.com/share/101XY23@xRsexBQCBD5ol38Xeg5JGnm9VCPp23m3vW5nslllzBfcdRYa-LV31Tceu1q_0tjkhQ==/)
+    - DevOps with [DevOps Beginners to Advanced with Projects](https://www.udemy.com/share/104Xxm3@CyD1bj8mRHaxzFxlJid-EYu56OA-8Rtiw_dE55YIi2lIja5b3NGeW9OSjfYU7Xlg1Q==/)
 
 - 📜I'm reading:
     - Code: The Hidden Language of Computer Hardware and Software, 2nd Edition by Charles Petzold
