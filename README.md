@@ -47,9 +47,13 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Cypress" title="Cypress"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/37cb517e-d059-4cc0-8124-1a72b663167c" alt="Playwright" title="Playwright"/></code>
 </div>
+
 - 💞️ I’m looking to collaborate on both Front-end and Back-end Projects in JS
-- 📫 How to reach me: ![via LinkedIn](https://www.linkedin.com/in/andrzejbuleczka/)
-- Courses I'm working on at ![Udemy](https://www.udemy.com/user/andrzej-buleczka-2/)
+
+- 📫 How to reach me: [via LinkedIn](https://www.linkedin.com/in/andrzejbuleczka/)
+
+- Courses I'm working on at [Udemy](https://www.udemy.com/user/andrzej-buleczka-2/)
+
 - ![Codewars](https://www.codewars.com/users/AndrzejBuleczka/badges/small)
 
 <!---
