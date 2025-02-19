@@ -11,7 +11,7 @@
     - DevOps with [DevOps Beginners to Advanced with Projects](https://www.udemy.com/share/104Xxm3@CyD1bj8mRHaxzFxlJid-EYu56OA-8Rtiw_dE55YIi2lIja5b3NGeW9OSjfYU7Xlg1Q==/)
 
 - 📜I'm reading:
-    - Code: The Hidden Language of Computer Hardware and Software, 2nd Edition by Charles Petzold
+    - Eloquent JavaScript, 4th Edition by Marijn Haverbeke
 
 - Tech Stack I use at work and am learning:
 
