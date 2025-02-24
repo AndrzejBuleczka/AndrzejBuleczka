@@ -24,6 +24,8 @@
 
 - Courses I'm working on at [Udemy](https://www.udemy.com/user/andrzej-buleczka-2/)
 
+- My SO: <a href="https://stackoverflow.com/users/10455537/andrzej-bu%c5%82eczka"><img src="https://stackoverflow.com/users/flair/10455537.png" width="208" height="58" alt="profile for Andrzej Bułeczka at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Andrzej Bułeczka at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 - ![Codewars](https://www.codewars.com/users/AndrzejBuleczka/badges/small)
 
 <!---
