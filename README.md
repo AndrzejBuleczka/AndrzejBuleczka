@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AndrzejBuleczka
 - 👀 I’m interested in Philosophy, Theology, Art and Technology.
 - 🌱 I’ve recently learnt:
+    - (May 2025) [Angular](https://www.udemy.com/certificate/UC-b3004c61-6438-417e-b35e-f097f912e3a2/)
     - (Jan 2024) [NextJS](https://www.udemy.com/certificate/UC-b658ecd7-33f2-445e-8759-af63dbe48e3b/) 
-    - (Oct 2023) JS/TS/node.js/express.js/MySQL/MongoDB/React/Nest at [MegaK V3](https://www.megak.pl/)
 
 - 🎓 I'm actively learning:
     - Python with [100 days of Python](https://www.udemy.com/share/103J8C3@OFPJXN3E6LlmauCeyHh1wh7sQwDSxFwsZ_O6KWDDC7R51qAL2x2htmHB0q-6OeyPVw==/)
