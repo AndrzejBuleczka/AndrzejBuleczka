@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndrzejBuleczka
-- 👀 I’m interested in Philosophy, Theology, Art and Technology.
+- 👀 I’m interested in Philosophy, Theology, Art and Technology. You can learn more [here](https://andrzejbuleczka.github.io/my_portfolio/).
 - 🌱 I’ve recently learnt:
     - (May 2025) [Angular](https://www.udemy.com/certificate/UC-b3004c61-6438-417e-b35e-f097f912e3a2/)
     - (Jan 2024) [NextJS](https://www.udemy.com/certificate/UC-b658ecd7-33f2-445e-8759-af63dbe48e3b/) 
