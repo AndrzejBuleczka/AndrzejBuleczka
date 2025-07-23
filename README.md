@@ -21,7 +21,7 @@
 - Tech Stack I use at work and am learning:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,git,nodejs,ts,figma,nextjs,astro,jest,cypress,aws,bash,py,docker,gatsby,latex,postman)](https://skillicons.dev)
 
-- 💞️ I’m looking to collaborate on both Front-end and Back-end Projects in JS
+- 💞️ I’m open to collaborate on both Front-end and Back-end Projects in JS
 
 - 📫 How to reach me: [via LinkedIn](https://www.linkedin.com/in/andrzejbuleczka/)
 
