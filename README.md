@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @AndrzejBuleczka
 - 👀 I’m interested in Philosophy, Theology, Art and Technology. You can learn more [here](https://andrzejbuleczka.github.io/my_portfolio/).
 - 🌱 I’ve recently learnt:
+    - (July 2025) [Complete Intro to React, v9](https://frontendmasters.com/courses/complete-react-v9/) 
+    - (Jun 2025) [Deep JavaScript Foundations, v3](https://frontendmasters.com/courses/deep-javascript-v3/)
     - (Jun 2025) [JavaScript Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
     - (May 2025) [Angular](https://www.udemy.com/certificate/UC-b3004c61-6438-417e-b35e-f097f912e3a2/)
     - (Jan 2024) [NextJS](https://www.udemy.com/certificate/UC-b658ecd7-33f2-445e-8759-af63dbe48e3b/) 
