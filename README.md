@@ -20,8 +20,8 @@
 
 - Tech Stack:
     - I use at work: JavaScript, TypeScript, Highcharts, Git, GitHub, React, Angular, Node, Jest, Postman, HTML, CSS
-    - I am learning: JavaScript, Python, Next, React, Angular, AWS
-    - I used at work: Figma, Astro, Cypress, Playwright, Docker, Gatsby, Strapi
+    - I am learning: JavaScript, Python, Next, React, Angular, AWS, Bash
+    - I used at work: Figma, Astro, Cypress, Playwright, Docker, Gatsby, Strapi, Zod, React Hook Form, Tailwind, ExpressJS, Preact
 
 
 - 💞️ I’m open to collaborate on both Front-end and Back-end Projects in JS
