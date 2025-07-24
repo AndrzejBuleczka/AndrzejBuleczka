@@ -18,8 +18,11 @@
 
 
 
-- Tech Stack I use at work and am learning:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,git,nodejs,ts,figma,nextjs,astro,jest,cypress,aws,bash,py,docker,gatsby,latex,postman)](https://skillicons.dev)
+- Tech Stack:
+    - I use at work: JavaScript, TypeScript, Highcharts, Git, GitHub, React, Angular, Node, Jest, Postman, HTML, CSS
+    - I am learning: JavaScript, Python, Next, React, Angular, AWS
+    - I used at work: Figma, Astro, Cypress, Playwright, Docker, Gatsby
+
 
 - 💞️ I’m open to collaborate on both Front-end and Back-end Projects in JS
 
